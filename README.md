@@ -6,23 +6,23 @@
 
 📖 ¡Con ganas de seguir aprendiendo!
 
-<div class="grid-container">
-        <div class="col d-flex justify-content-center flex-wrap p-0">
-            <p class="fuentePrincipal colorOctavo p-2 m-1 fs-15" style="background-color: #838dba">PHP</p>
-            <p class="fuentePrincipal colorOctavo p-2 m-1 fs-15" style="background-color: #1b769c">Wordpress</p>
-            <p class="fuentePrincipal colorOctavo p-2 m-1 fs-15" style="background-color: #8acf17;">jQuery</p>
-        </div>
-        <div class="col d-flex justify-content-center flex-wrap p-0">
-            <p class="fuentePrincipal colorOctavo p-2 m-1 fs-10" style="background-color: #e44d26">HTML</p>
-            <p class="fuentePrincipal colorOctavo p-2 m-1 fs-10" style="background-color: #2277ff">CSS</p>
-            <p class="fuentePrincipal colorPrimero p-2 m-1 fs-10" style="background-color: #efd81d">Javascript</p>
-            <p class="fuentePrincipal colorOctavo p-2 m-1 fs-10" style="background-color: #27245d">Prestashop</p>
-        </div>
-        <div class="col d-flex justify-content-center flex-wrap p-0">
-            <p class="fuentePrincipal colorOctavo p-2 m-1 fs-9" style="background-color: #d0a701">SQL</p>
-            <p class="fuentePrincipal colorPrimero p-2 m-1 fs-9" style="background-color: #dddddd">Java</p>
-            <p class="fuentePrincipal colorOctavo p-2 m-1 fs-9" style="background-color: #0b2dbe">ASP.NET</p>
-            <p class="fuentePrincipal colorOctavo p-2 m-1 fs-9" style="background-color: #ce62c5">C#</p>
-            <p class="fuentePrincipal colorOctavo p-2 m-1 fs-9" style="background-color: #ff2d20">Laravel</p>
-        </div>
+<div>
+    <div>
+        <span style="background-color: #838dba">PHP</span>
+        <span style="background-color: #1b769c">Wordpress</span>
+        <span style="background-color: #8acf17;">jQuery</span>
     </div>
+    <div>
+        <span style="background-color: #e44d26">HTML</span>
+        <span style="background-color: #2277ff">CSS</span>
+        <span style="background-color: #efd81d">Javascript</span>
+        <span style="background-color: #27245d">Prestashop</span>
+    </div>
+    <div>
+        <span style="background-color: #d0a701">SQL</span>
+        <span style="background-color: #dddddd">Java</span>
+        <span style="background-color: #0b2dbe">ASP.NET</span>
+        <span style="background-color: #ce62c5">C#</span>
+        <span style="background-color: #ff2d20">Laravel</span>
+    </div>
+</div>
