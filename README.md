@@ -6,23 +6,16 @@
 
 📖 ¡Con ganas de seguir aprendiendo!
 
-<div>
-    <div>
-        <span style="background-color: #838dba">PHP</span>
-        <span style="background-color: #1b769c">Wordpress</span>
-        <span style="background-color: #8acf17;">jQuery</span>
-    </div>
-    <div>
-        <span style="background-color: #e44d26">HTML</span>
-        <span style="background-color: #2277ff">CSS</span>
-        <span style="background-color: #efd81d">Javascript</span>
-        <span style="background-color: #27245d">Prestashop</span>
-    </div>
-    <div>
-        <span style="background-color: #d0a701">SQL</span>
-        <span style="background-color: #dddddd">Java</span>
-        <span style="background-color: #0b2dbe">ASP.NET</span>
-        <span style="background-color: #ce62c5">C#</span>
-        <span style="background-color: #ff2d20">Laravel</span>
-    </div>
-</div>
+## Tecnologías:
+![https://github.com/javimoya33](https://github.com/javimoya33/javimoya33/blob/master/Tecnologias.png)
+
+## Puedes encontrarme en:
+
+✉️ [javimoya33@gmail.com](mailto:javimoya33@gmail.com)
+</br>
+📱 [656 329 246](https://web.whatsapp.com/send?phone=34667630958)
+</br>
+👷 [Linkedin](https://www.linkedin.com/in/javier-moya-mateo-1b93bb13b/)
+</br>
+📕 [facebook.com/javier.moyamateo](https://www.facebook.com/javier.moyamateo)
+</br>
