@@ -1,4 +1,4 @@
-### Hola, soy Javier Moya 👋
+# Hola, soy Javier Moya 👋
 
 🖥️ Programador informático con experiencia en desarrollo web y aplicaciones móviles. Especializado en realizar programas informáticos en PHP y en brindar soporte web a negocios locales con Wordpress.
 
