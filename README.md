@@ -7,7 +7,7 @@
 📖 ¡Con ganas de seguir aprendiendo!
 
 ## Tecnologías:
-![https://github.com/javimoya33](https://github.com/javimoya33/javimoya33/blob/master/Tecnologias.png)
+![https://github.com/javimoya33](https://github.com/javimoya33/javimoya33/blob/master/Tecnologiass.png)
 
 ## Puedes encontrarme en:
 
